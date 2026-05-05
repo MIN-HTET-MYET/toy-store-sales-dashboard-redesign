@@ -4,16 +4,12 @@ This project focuses on improving dashboard design and data communication using 
 
 Instead of modifying the data, the goal was to redesign the dashboard to make it cleaner, more structured, and easier for users to understand key insights at a glance.
 
----
-
 ## 🎯 Objective
 
 - Improve dashboard clarity and readability  
 - Enhance visual hierarchy  
 - Apply a consistent color theme  
 - Reduce clutter and highlight key insights  
-
----
 
 ## 🛠 Tools & Skills
 
@@ -51,7 +47,8 @@ Instead of modifying the data, the goal was to redesign the dashboard to make it
 
 ## 💡 Key Learning
 
-A good dashboard is not about adding more visuals — it’s about removing noise and guiding the audience to the right insights.
+A good dashboard is not about adding more visuals. It’s about removing noise and guiding the audience to the right insights.
+
 ---
 
 ## 📌 Author
