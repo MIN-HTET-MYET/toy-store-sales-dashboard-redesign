@@ -22,8 +22,6 @@ Instead of modifying the data, the goal was to redesign the dashboard to make it
 - Dashboard Design  
 - Color Theory & Layout Optimization  
 
----
-
 ## 🔄 Process
 
 1. Developed a clear understanding of the dataset and business metrics  
@@ -31,8 +29,6 @@ Instead of modifying the data, the goal was to redesign the dashboard to make it
 3. Extracted color palettes and created a custom theme  
 4. Redesigned layout for better spacing and alignment  
 5. Simplified visuals to improve user experience  
-
----
 
 ## 📈 Key Improvements
 
@@ -47,12 +43,11 @@ Instead of modifying the data, the goal was to redesign the dashboard to make it
 ## 🖼 Before vs After
 
 ### Before
-![Before Dashboard](before.png)
+![Before Dashboard](Before.PNG)
 
 ### After
-![After Dashboard](after.png)
+![After Dashboard](After.PNG)
 
----
 
 ## 💡 Key Learning
 
@@ -62,8 +57,6 @@ A good dashboard is not about adding more visuals — it’s about removing nois
 ## 📌 Author
 
 **Min Htet Myet**  
-
----
 
 ## ⭐ If you like this project
 
